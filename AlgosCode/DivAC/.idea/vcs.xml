@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/other_exp/PPO-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other_exp/baselines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other_exp/pytorch-a2c-ppo-acktr-gail" vcs="Git" />
+  </component>
+</project>
