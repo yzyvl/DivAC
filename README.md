@@ -1,3 +1,3 @@
 # DivAC
 
-Our implement for DivAC algorithm.
+We implement for DivAC algorithm.
